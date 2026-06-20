@@ -7,5 +7,16 @@
       "zenn": "https://zenn.dev/muramasa0228"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "2026-06-20-mcp-zenn-pipeline",
+      "title": "Claude Code と MCP で「記事を書く→Zenn公開→経歴に蓄積」を自動化した",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-20-mcp-zenn-pipeline",
+      "published_at": "2026-06-20",
+      "topics": ["claudecode", "mcp", "zenn", "github", "個人開発"],
+      "summary": "Claude Code と MCP で、記事執筆→Zenn公開→経歴リポジトリへの実績蓄積を一気通貫に自動化した仕組みの紹介。",
+      "status": "published"
+    }
+  ]
 }

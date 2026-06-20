@@ -9,7 +9,7 @@
 <!-- articles:start -->
 | 日付 | タイトル | 媒体 | トピック |
 |------|----------|------|----------|
-| _まだ記事はありません_ |  |  |  |
+| 2026-06-20 | [Claude Code と MCP で「記事を書く→Zenn公開→経歴に蓄積」を自動化した](https://zenn.dev/muramasa0228/articles/2026-06-20-mcp-zenn-pipeline) | Zenn | claudecode, mcp, zenn, github, 個人開発 |
 <!-- articles:end -->
 
 ## 🗂 構成
