@@ -1,7 +1,7 @@
 # learn-in-public 📚
 
 日々の学びを記事として発信し、その実績を蓄積していくリポジトリです。
-記事は **Zenn** と連携して公開し（`articles/` を push すると自動公開）、
+記事は **Zenn**（[@muramasa0228](https://zenn.dev/muramasa0228)）と連携して公開し（`articles/` を push すると自動公開）、
 発信実績は `career/index.json` で一元管理しています。
 
 ## 📝 発信実績
@@ -27,11 +27,13 @@
 3. `career/index.json` に `{title, url, platform, published_at, topics}` を追記
 4. 上の「発信実績」テーブルを更新
 
+この一連の作業は Claude Code スキル `/post-article` で自動化しています。
+
 ## 🔗 Zenn 連携（初回のみ手動）
 
 Zenn ダッシュボード → デプロイ設定 → このリポジトリ（`masa5228/learn-in-public`）を連携。
 以降は `main` への push で自動反映されます。
-公開 URL は `https://zenn.dev/<あなたの Zenn ユーザー名>/articles/<ファイル名（拡張子なし）>`。
+公開 URL は `https://zenn.dev/muramasa0228/articles/<ファイル名（拡張子なし）>`。
 
 ---
 
