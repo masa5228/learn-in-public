@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-20-skill-human-touch",
+      "title": "Claude Code のスキルに「人間らしさチェック」を足した──AI発信自動化の改善サイクルを回す",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-20-skill-human-touch",
+      "published_at": "2026-06-20",
+      "topics": ["claudecode", "zenn", "llm", "個人開発", "自動化"],
+      "summary": "Zenn発信を自動化するスキルに「人間らしさチェック」を追加した。AI臭の原因を調査し、文体ルール・校正ステップをSKILL.mdに実装した記録。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-20-mcp-zenn-pipeline",
       "title": "Claude Code と MCP で「記事を書く→Zenn公開→経歴に蓄積」を自動化した",
       "platform": "zenn",
