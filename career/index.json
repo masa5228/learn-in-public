@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-22-claude-code-opus-pattern",
+      "title": "Claude Code でOpusを使い切る——設計はSonnet、実装はプロジェクト直起動",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-22-claude-code-opus-pattern",
+      "published_at": "2026-06-22",
+      "topics": ["claudecode", "aiagent", "llm", "個人開発"],
+      "summary": "マルチエージェント構成でオーケストレーターのモデルが上限になる問題を発見。.claude/settings.jsonでプロジェクト直起動し、CLAUDE.mdを引き継ぎ書にする設計/実装分離パターンを紹介。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-22-mastra-pre-study",
       "title": "Mastraを触る前に整理した概念マップ——TypeScriptでLLMをif-elseの代わりに使う",
       "platform": "zenn",
