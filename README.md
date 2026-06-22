@@ -9,6 +9,7 @@
 <!-- articles:start -->
 | 日付 | タイトル | 媒体 | トピック |
 |------|----------|------|----------|
+| 2026-06-22 | [Mastraを触る前に整理した概念マップ——TypeScriptでLLMをif-elseの代わりに使う](https://zenn.dev/muramasa0228/articles/2026-06-22-mastra-pre-study) | Zenn | mastra, typescript, aiagent, llm |
 | 2026-06-20 | [Claude Code のスキルに「人間らしさチェック」を足した──AI発信自動化の改善サイクルを回す](https://zenn.dev/muramasa0228/articles/2026-06-20-skill-human-touch) | Zenn | claudecode, zenn, llm, 個人開発, 自動化 |
 | 2026-06-20 | [Claude Code と MCP で「記事を書く→Zenn公開→経歴に蓄積」を自動化した](https://zenn.dev/muramasa0228/articles/2026-06-20-mcp-zenn-pipeline) | Zenn | claudecode, mcp, zenn, github, 個人開発 |
 <!-- articles:end -->

@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-22-mastra-pre-study",
+      "title": "Mastraを触る前に整理した概念マップ——TypeScriptでLLMをif-elseの代わりに使う",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-22-mastra-pre-study",
+      "published_at": "2026-06-22",
+      "topics": ["mastra", "typescript", "aiagent", "llm"],
+      "summary": "TypeScript製AIエージェントフレームワークMastraについて、未使用の段階で概念を整理した事前学習メモ。LLMを対話的に使う場合とコードに組み込む場合の違いを軸に解説。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-20-skill-human-touch",
       "title": "Claude Code のスキルに「人間らしさチェック」を足した──AI発信自動化の改善サイクルを回す",
       "platform": "zenn",
