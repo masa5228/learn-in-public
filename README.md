@@ -9,6 +9,7 @@
 <!-- articles:start -->
 | 日付 | タイトル | 媒体 | トピック |
 |------|----------|------|----------|
+| 2026-06-23 | [コメント禁止規約の必要性——AIはコメントに騙される](https://zenn.dev/muramasa0228/articles/2026-06-23-no-comments-ai-coding) | Zenn | claudecode, aiagent, 個人開発, プログラミング |
 | 2026-06-22 | [Claude Code でOpusを使い切る——設計はSonnet、実装はプロジェクト直起動](https://zenn.dev/muramasa0228/articles/2026-06-22-claude-code-opus-pattern) | Zenn | claudecode, aiagent, llm, 個人開発 |
 | 2026-06-22 | [Mastraを触る前に整理した概念マップ——TypeScriptでLLMをif-elseの代わりに使う](https://zenn.dev/muramasa0228/articles/2026-06-22-mastra-pre-study) | Zenn | mastra, typescript, aiagent, llm |
 | 2026-06-20 | [Claude Code のスキルに「人間らしさチェック」を足した──AI発信自動化の改善サイクルを回す](https://zenn.dev/muramasa0228/articles/2026-06-20-skill-human-touch) | Zenn | claudecode, zenn, llm, 個人開発, 自動化 |
