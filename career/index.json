@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-23-no-comments-ai-coding",
+      "title": "コメント禁止規約の必要性——AIはコメントに騙される",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-23-no-comments-ai-coding",
+      "published_at": "2026-06-23",
+      "topics": ["claudecode", "aiagent", "個人開発", "プログラミング"],
+      "summary": "コメントとコードが矛盾したときLLMはコメントを正として採用しバグを生む。AI時代のコーディング規約として「コメント禁止」を再定義した理由を解説。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-22-claude-code-opus-pattern",
       "title": "Claude Code でOpusを使い切る——設計はSonnet、実装はプロジェクト直起動",
       "platform": "zenn",
