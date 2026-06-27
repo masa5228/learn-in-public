@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-27-codex-agent-org",
+      "title": "設計はOpus、実装はCodex。Claude Codeに開発エージェント組織を追加した意図",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-27-codex-agent-org",
+      "published_at": "2026-06-27",
+      "topics": ["claudecode", "codex", "claude", "ai", "agent"],
+      "summary": "設計はOpus・実装はCodex・橋渡しはconciergeの三層で開発エージェント組織を組んだ意図と、橋渡し役（低レベルモデル）がボトルネックになる問題への対処を記録した。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-23-no-comments-ai-coding",
       "title": "コメント禁止規約の必要性——AIはコメントに騙される",
       "platform": "zenn",
