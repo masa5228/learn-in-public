@@ -9,6 +9,16 @@
   },
   "articles": [
     {
+      "id": "2026-06-29-agent-memory-3-layer",
+      "title": "エージェントの長期記憶を3層構造で設計する：mcp__memoryを捨ててファイル＋grepに振った話",
+      "platform": "zenn",
+      "url": "https://zenn.dev/muramasa0228/articles/2026-06-29-agent-memory-3-layer",
+      "published_at": "2026-06-29",
+      "topics": ["llm", "ai", "rag", "claudecode", "mcp"],
+      "summary": "エージェントの長期記憶をhot/index/coldの3層で設計する考え方。MemGPT/Letta・HermesAgent等と比較し、mcp__memoryの実体を確かめてファイル+grepへ切り替えた経緯をまとめた。",
+      "status": "published"
+    },
+    {
       "id": "2026-06-27-codex-agent-org",
       "title": "設計はOpus、実装はCodex。Claude Codeに開発エージェント組織を追加した意図",
       "platform": "zenn",

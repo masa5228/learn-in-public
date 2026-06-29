@@ -9,6 +9,7 @@
 <!-- articles:start -->
 | 日付 | タイトル | 媒体 | トピック |
 |------|----------|------|----------|
+| 2026-06-29 | [エージェントの長期記憶を3層構造で設計する：mcp__memoryを捨ててファイル＋grepに振った話](https://zenn.dev/muramasa0228/articles/2026-06-29-agent-memory-3-layer) | Zenn | llm, ai, rag, claudecode, mcp |
 | 2026-06-27 | [設計はOpus、実装はCodex。Claude Codeに開発エージェント組織を追加した意図](https://zenn.dev/muramasa0228/articles/2026-06-27-codex-agent-org) | Zenn | claudecode, codex, claude, ai, agent |
 | 2026-06-23 | [コメント禁止規約の必要性——AIはコメントに騙される](https://zenn.dev/muramasa0228/articles/2026-06-23-no-comments-ai-coding) | Zenn | claudecode, aiagent, 個人開発, プログラミング |
 | 2026-06-22 | [Claude Code でOpusを使い切る——設計はSonnet、実装はプロジェクト直起動](https://zenn.dev/muramasa0228/articles/2026-06-22-claude-code-opus-pattern) | Zenn | claudecode, aiagent, llm, 個人開発 |
